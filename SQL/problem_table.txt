@@ -1,0 +1,10 @@
+Insert into EXPORT_TABLE (PROBLEM_NO,PROBLEM) values (1,'추상화 수준이 높고 업무 중싱적이고 포괄적인 수준의 모델링을 진행하는 것을 _______ 데이터 모델링이라고 한다. 이와 달리 실제로 데이터베이스에 이식 할 수 있도록 성능, 저장 등의 물리적인 성격을 고려한 데이터 모델링은 ________ 데이터 모델링이라고 한다. 빈칸에 들어갈 단어를 순서대로 나열한 것은?');
+Insert into EXPORT_TABLE (PROBLEM_NO,PROBLEM) values (2,'다음 중 엔터티의 일반적인 특징으로 가장 부적절한 것은? ');
+Insert into EXPORT_TABLE (PROBLEM_NO,PROBLEM) values (4,'업무에서 필요로 하는 인스턴스에서 관리하고자 하는 의미상 더 이상 분리되지 않는 최소의 데이터 단위를 무엇이라고 하는가?');
+Insert into EXPORT_TABLE (PROBLEM_NO,PROBLEM) values (5,'다음 중 속성에 대한 설명으로 가장 부적절한 것은?');
+Insert into EXPORT_TABLE (PROBLEM_NO,PROBLEM) values (6,'다음 중 데이터를 조회할 때 빠른 성능을 낼 수 있도록 하기 위해 원래 속성의 값을 계산하여 저장할 수 있도록 만든 속성으로 가장 적절한 것은?');
+Insert into EXPORT_TABLE (PROBLEM_NO,PROBLEM) values (7,'테이블의 구조를 생성, 변경, 삭제하는 등 데이터 구조를 정의하는데 사용하는 명령어이다. 이 설명에 해당하지 않는 SQL명령어로 옳지 않은것은??');
+Insert into EXPORT_TABLE (PROBLEM_NO,PROBLEM) values (8,'다음 중 물리적 테이블 명으로 가장 적절한 것은?');
+Insert into EXPORT_TABLE (PROBLEM_NO,PROBLEM) values (9,'다음 중 데이터 제어어(DCL)에 해당하는 명령어는?');
+Insert into EXPORT_TABLE (PROBLEM_NO,PROBLEM) values (3,'다음 중 엔터티의 이름을 부여하는 방법으로서 가장 부적절한 것은?');
+Insert into EXPORT_TABLE (PROBLEM_NO,PROBLEM) values (0,'다음 중 NULL의 설명으로 가장 부적절한 것은?');
